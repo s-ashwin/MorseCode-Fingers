@@ -11,7 +11,7 @@ I made use of [Teachable Machine](https://teachablemachine.withgoogle.com/train/
 
 2 Represents Dash
 
-Once we move our hand out of the camera (Blank Screen), the respective alphabet or number for the pattern [Refer info.txt] will be displayed on the screen
+Once we move our hand out of the camera (Blank Screen), the respective alphabet or number for the pattern (Refer info.txt) will be displayed on the screen
 
 My Model (keras_model.h5) works best only in plain background
 
